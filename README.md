@@ -1,7 +1,7 @@
 # cka-ckad-prep
 prep notes for cka and ckad
 
-## References
+## Helpful links:
 * [dstorck's cka-prep materials](https://github.com/DStorck/cka-prep)
 * [matthewpalmer's Kubernetes for Application Developers
 ](https://matthewpalmer.net/kubernetes-app-developer/)
