@@ -21,6 +21,14 @@ Based on: current version of Kubernetes:  1.11.1
 * [dgkanatsios' ckad prep materials](https://github.com/dgkanatsios/CKAD-exercises)
 * [saripurigopi's ckad prep materials](https://github.com/saripurigopi/CKAD)
 * [twajr's ckad prep materials](https://github.com/twajr/ckad-prep-notes)
+* [kelsey hightower's kubernetes the hardway](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+## Other Study Materials:
+* Linux Academy - Kubernetes the Hard Way
+* Linux Acamemy - Certified Kubernetes Administrator
+* Udemy - Loony Corn - Kubernetes On the Cloud and the CNCF CKA Certification
+* CNCF - Training Materials 
+ 
 
 # CKA
 
