@@ -112,7 +112,7 @@ Core Concepts - 13%
 - [ ] Understand Kubernetes API primitives 
 - [ ] Create and configure basic Pods
 
-10% Multi-Container Pods
+Multi-Container Pods - 10%
 - [ ] Understand Multi-Container Pod design patterns (e.g. ambassador, adapter, sidecare)
 
 Pod Design - 20%
