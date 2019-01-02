@@ -1,8 +1,9 @@
 # cka-ckad-prep
 prep notes for cka and ckad
+
 Based on: current version of Kubernetes:  1.11.1 
 
-# Keystrokes to use:
+## Keystrokes to use:
 * For Mac: ⌘+C to copy and ⌘+V to paste.
 * Use Ctrl+Alt+W instead of Ctrl+W. Ctrl+W is a keyboard shortcut that will close the current tab in Google Chrome
 * tmux
